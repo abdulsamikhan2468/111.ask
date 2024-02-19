@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flat Ui Colors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="colors">
+        <label for="Colors">Copy Format:</label>
+        <select name="colors" id="colors">
+            <option value="HEX (#AA1923)">
+                <h1 class="a">HEX (#AA1923)</h1>
+            </option>
+            <option value="HEX (AA1923)">
+                <h1 class="a">HEX (AA1923)</h1>
+            </option>
+            <option value="RGB - (1,2,3)">
+                <h1 class="a">RGB - (1,2,3)</h1>
+            </option>
+            <option value="RGBA - (1,2,3,0.4)">
+                <h1 class="a">RGBA - (1,2,3,0.4)</h1>
+            </option>
+            <option value="Want more colors?">
+                <h1 class="a">Want more colors?</h1>
+            </option>
+            <option value="Feedback">
+                <h1 class="a">Feedback</h1>
+            </option>
+        </select>
+    </div>
+    <div class="container">
+
+        <div class="CREAMY ">
+            <h4>CREAMY PEACH</h4>
+        </div>
+        <div class="ROSY">
+            <h3>ROSY HIGHLIGHT</h3>
+        </div>
+        <div class="SOFT">
+            <h3>SOFT BLUE</h3>
+        </div>
+        <div class="BREWED">
+            <h3>BREWED MUSTARD</h3>
+        </div>
+        <div class="OLD">
+            <h3>OLD GERANIUM</h3>
+        </div>
+        <div class="SAWTOOTH">
+            <h3>SAWTOOTH AAK</h3>
+        </div>
+        <div class="SUMMERTIME">
+            <h3>SUMMERTIME</h3>
+        </div>
+        <div class="CORN">
+            <h3>CORN FLOWER</h3>
+        </div>
+        <div class="TIGERLILY">
+            <h3>TIGERLILY</h3>
+        </div>
+        <div class="DEEP">
+            <h3>DEEP ROSE</h3>
+        </div>
+        <div class="PURPLE">
+            <h3>PURPLE MOUNTAIN MAJESTY</h3>
+        </div>
+        <div class="ROGUE">
+            <h3>ROGUE PINK</h3>
+        </div>
+        <div class="SQUEAKY">
+            <h3>SQUEAKY</h3>
+        </div>
+        <div class="APPLE">
+            <h3>APPLE VALLEY</h3>
+        </div>
+        <div class="PENCIL">
+            <h3>PENCIL LEAD</h3>
+        </div>
+        <div class="CORALLITE">
+            <h3>PURPLE CORALLITE</h3>
+        </div>
+        <div class="FLAMINGO">
+            <h3>FLAMINGO PINK</h3>
+        </div>
+        <div class="BLUE">
+            <h3>BLUE CURACAO</h3>
+        </div>
+        <div class="PORCELAIN">
+            <h3>PORCELAIN ROSE</h3>
+        </div>
+        <div class="BISCAY">
+            <h3>BISCAY</h3>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
